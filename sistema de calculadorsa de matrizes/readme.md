@@ -109,4 +109,4 @@ A proposta também me ajudou a visualizar como diferentes recursos da linguagem 
 
 Linguagem utilizada: C
 Compilador: GCC
-Ambiente de desenvolvimento: Dev c++
+Ambiente de desenvolvimento: Visual Studio Code
